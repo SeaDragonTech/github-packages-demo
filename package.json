@@ -1,0 +1,22 @@
+{
+  "name": "@seadragontech/github-packages-demo",
+  "version": "1.0.0",
+  "description": "包测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeaDragonTech/github-packages-demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "SeaDragonTech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeaDragonTech/github-packages-demo/issues"
+  },
+  "homepage": "https://github.com/SeaDragonTech/github-packages-demo#readme"
+}
