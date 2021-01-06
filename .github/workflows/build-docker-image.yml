@@ -1,6 +1,9 @@
 name: build-docker-image
 
-on: release 
+on: 
+  push:
+     branches: 
+       - master 
 
 jobs:
   build-docker-image:
