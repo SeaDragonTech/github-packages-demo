@@ -1,6 +1,6 @@
 name: build-docker-image
 
-on: release
+on: release 
 
 jobs:
   build-docker-image:
